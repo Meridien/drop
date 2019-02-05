@@ -7,8 +7,8 @@ Native PHP Library for easy file download sharing
 
 Directory Structure:
 .
-/index.php
-/dl.php
-/drop
-/drop/file-to-download1.ext
-/drop/file-to-download2.ext
+/index.php  
+/dl.php  
+/drop  
+/drop/file-to-download1.ext  
+/drop/file-to-download2.ext  
