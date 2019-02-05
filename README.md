@@ -5,8 +5,8 @@ Native PHP Library for easy file download sharing
 2. Navigate to /index.php
 3. Download Files from Links
 
-Directory Structure:
-.
+Directory Structure:  
+.  
 /index.php  
 /dl.php  
 /drop  
